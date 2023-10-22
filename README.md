@@ -4,7 +4,7 @@
 
 ### hello
 
-- i am jayden
+- i am lucid
 
 #### contact me
 
