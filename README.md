@@ -4,7 +4,7 @@
 
 ### hello
 
-- i am lucid
+- i am lucid, aka jay
 
 #### contact me
 
